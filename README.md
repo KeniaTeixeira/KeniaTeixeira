@@ -1,7 +1,7 @@
 - 👋 Olá,sou @KeniaTeixeira
 - 🚀 Apaixonada por desenvolvimento de software...
 - 🎓 Graduando em Ciência da Computação...
-- 👩‍💻 Técnico em Desenvolvimento de sistemas
+- 👩‍💻 Cursando técnico em Desenvolvimento de sistemas
 - 🌐 Conecte-se comigo:@Kenxatx
 - https://www.linkedin.com/in/kenia-teixeira-bb3897290/
 
