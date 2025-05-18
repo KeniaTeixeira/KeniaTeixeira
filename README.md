@@ -1,5 +1,6 @@
 <p align="center">
-:purple_heart: Sou Kenia Teixeira
+<h2> :purple_heart: Sou Kenia Teixeira </h2>
+
 </p>
 :computer: Graduanda em Ciência da Computação
 
