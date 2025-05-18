@@ -1,5 +1,6 @@
+<p align="center">
 ### :purple_heart: Sou Kenia Teixeira
-
+</p>
 :computer: Graduanda em Ciência da Computação
 
 :books: Técnico em Desenvolvimento de Sistemas
