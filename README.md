@@ -1,6 +1,6 @@
 ## Hello, world! :shipit: 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="ilustração do status do github">
 
 #### <p>Técnica em Desenvolvimento de Sistemas :computer: <br/> Estudante de Ciência da Computação :books: </p>
 
