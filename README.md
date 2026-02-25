@@ -1,5 +1,6 @@
 ## Hello, world! :shipit: 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&layout=compact)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### <p>Técnica em Desenvolvimento de Sistemas :computer: <br/> Estudante de Ciência da Computação :books: </p>
 
