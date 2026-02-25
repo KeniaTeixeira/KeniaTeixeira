@@ -1,8 +1,5 @@
 ## Hello, world! :shipit: 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&layout=compact" />
-</p>
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KeniaTeixeira&layout=compact)
 
 #### <p>Técnica em Desenvolvimento de Sistemas :computer: <br/> Estudante de Ciência da Computação :books: </p>
 
