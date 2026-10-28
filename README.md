@@ -57,7 +57,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🧶 <a href="LINK-REPO">Amare</a></h3>
+      <h3>🧶Amare</h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-F59E0B?style=flat-square" />
       <p>Sistema de vendas para loja de bolsas artesanais: o cliente <b>monta a própria bolsa</b>, escolhe as personalizações e envia seus dados para finalizar o pedido de forma simples.</p>
       <p>
@@ -70,7 +70,7 @@
       🌐 <i>Demo em breve</i> · <a href="LINK-REPO">📂 Código</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="LINK-REPO">Detecção de sementes germinativas</a></h3>
+      <h3>🌱Detecção de sementes germinativas</h3>
       <img src="https://img.shields.io/badge/status-TCC%20em%20andamento-A855F7?style=flat-square" />
       <p>Projeto de TCC que usa <b>análise de imagens</b> para identificar automaticamente se uma semente é germinativa ou não.</p>
       <p>
